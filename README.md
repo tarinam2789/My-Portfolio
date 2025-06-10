@@ -9,26 +9,26 @@ This web app: **This portfolio showcases my skills, experience, and projects as 
 
 ## Features
 
-- [x] **Responsive Navigation Bar**
+- [X] **Responsive Navigation Bar**
   - Includes a desktop navigation menu and a hamburger menu for smaller screens.  
   - Smooth toggling of the hamburger menu with animated icons for better UX.
 
-  [x] **Animated Background Bubbles**  
+  [X] **Animated Background Bubbles**  
   - Floating, colorful bubble animations add a dynamic and engaging visual effect throughout the site.
 
-[x] **Profile Section**  
+- [X] **Profile Section**  
   - Displays a circular profile picture with a smooth fade-in animation.  
   - Includes a short personal introduction and styled buttons for quick access to contact or resume download.
 
-[x] **About, Experience, and Skills Sections**  
+- [X] **About, Experience, and Skills Sections**  
   - Well-organized, flexible layouts with separate containers for easy reading.  
   - Experience and skills are displayed in distinct, styled boxes with hover animations to highlight each item.
 
-[x] **Projects Section**  
+- [X] **Projects Section**  
   - Showcases recent projects with images and titles.  
   - Buttons allow users to interact (e.g., visit project details) with smooth hover effects.
 
-[x] **Contact Section**  
+- [X] **Contact Section**  
   - A clean contact form with styled inputs and a send button.  
   - Inputs highlight on focus for better usability.  
   - Includes a section for social media icons with interactive hover scaling.
