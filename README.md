@@ -33,17 +33,17 @@ This web app: **This portfolio showcases my skills, experience, and projects as 
   - Inputs highlight on focus for better usability.  
   - Includes a section for social media icons with interactive hover scaling.
 
-[x] **Smooth Animations & Transitions**  
+- [x] **Smooth Animations & Transitions**  
   - Buttons, boxes, images, and menu items feature subtle animations on hover and click to improve user engagement.
 
-[x] **Consistent Color Theme & Typography**  
+- [x] **Consistent Color Theme & Typography**  
   - Uses a warm pink color palette with whites and soft grays for backgrounds and text.  
   - Elegant serif fonts (Times New Roman) create a professional and approachable look.
 
-[x] **Fixed Navigation with Z-Index Management**  
+- [x] **Fixed Navigation with Z-Index Management**  
   - Navigation bars stay visible at the top during scrolling for easy access.
 
-[x] **Accessibility & Usability**  
+- [x] **Accessibility & Usability**  
   - Buttons and links are keyboard and mouse accessible.  
   - Responsive layout adapts smoothly to different screen sizes.
 
