@@ -2,8 +2,7 @@
 
 Created by: **Tarina Muna**
 
-This web app: **This portfolio showcases my skills, experience, and projects as a software engineer. It highlights my passion for coding, design, and continuous learning.
-**
+This web app: **This portfolio showcases my skills, experience, and projects as a software engineer. It highlights my passion for coding, design, and continuous learning.**
 
 
 
