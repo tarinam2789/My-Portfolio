@@ -12,7 +12,7 @@ This web app: **This portfolio showcases my skills, experience, and projects as 
   - Includes a desktop navigation menu and a hamburger menu for smaller screens.  
   - Smooth toggling of the hamburger menu with animated icons for better UX.
 
-  [X] **Animated Background Bubbles**  
+  - [X] **Animated Background Bubbles**  
   - Floating, colorful bubble animations add a dynamic and engaging visual effect throughout the site.
 
 - [X] **Profile Section**  
